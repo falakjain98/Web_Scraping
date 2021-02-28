@@ -1,3 +1,6 @@
+#! python3
+# webBrowse.py - browsing seleniumeasy.com and providing input
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
